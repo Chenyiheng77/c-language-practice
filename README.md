@@ -8,10 +8,8 @@ My first GitHub project
 - 基础语法练习
 - 课后作业
 - 小型练习项目
-
 ## 如何运行
 使用 GCC 编译器编译：
-\`\`\`bash
+```bash
 gcc hello.c -o hello
 ./hello
-\`\`\`
